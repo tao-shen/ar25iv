@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         ar25iv
-// @icon         https://ar5iv.org/assets/ar5iv.png
 // @namespace    https://github.com/tao-shen/ar25iv
 // @homepage     https://github.com/tao-shen/ar25iv
 // @version      1.0
@@ -8,6 +7,7 @@
 // @description  An Arxiv Jumper to Ar5iv
 // @include      /^https?://(.*\.)?arxiv\.org/.*/
 // @run-at       document-end
+// @license      MIT License
 // ==/UserScript==
 window.onload=function () {
     let h0 = document.querySelector('#abs-outer > div.extra-services > div.full-text > ul');
