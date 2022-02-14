@@ -1,5 +1,7 @@
 // ==UserScript==
 // @name         ar25iv
+// @name:zh      ar25iv
+// @name:en      ar25iv
 // @namespace    https://github.com/tao-shen/ar25iv
 // @homepage     https://github.com/tao-shen/ar25iv
 // @version      1.0
