@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         ar25iv
+// @icon         https://ar5iv.org/assets/ar5iv.png
 // @namespace    https://github.com/tao-shen/ar25iv
 // @homepage     https://github.com/tao-shen/ar25iv
 // @version      1.0
