@@ -4,9 +4,11 @@
 // @name:en      ar25iv
 // @namespace    https://github.com/tao-shen/ar25iv
 // @homepage     https://github.com/tao-shen/ar25iv
-// @version      1.0
+// @version      1.1
 // @author       tao.shen
-// @description  An Arxiv Jumper to Ar5iv
+// @description  An Arxiv Jumper to Ar5iv (arxiv h5)
+// @description:zh  An Arxiv Jumper to Ar5iv (arxiv h5)
+// @description:en  An Arxiv Jumper to Ar5iv (arxiv h5)
 // @include      /^https?://(.*\.)?arxiv\.org/.*/
 // @run-at       document-end
 // @license      MIT License
